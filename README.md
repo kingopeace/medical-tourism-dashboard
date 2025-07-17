@@ -4,13 +4,13 @@ An interactive Shiny dashboard built in R for the bibliometric analysis of medic
 
 ---
 
-### 🚀 Live Demo
+###  Live Demo
 
 **
 
 ---
 
-### ✨ Features
+###  Features
 
 * *Publication Trends:* An interactive plot showing the volume of publications over a user-selected year range.
 * *Key Contributors:* Dynamic bar charts displaying the top authors and journals based on publication count.
@@ -19,7 +19,7 @@ An interactive Shiny dashboard built in R for the bibliometric analysis of medic
 
 ---
 
-### 💻 How to Run Locally
+###  How to Run Locally
 
 To run this application on your own machine, you will need to have R and RStudio installed.
 
