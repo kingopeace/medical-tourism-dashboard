@@ -6,7 +6,8 @@ An interactive Shiny dashboard built in R for the bibliometric analysis of medic
 
 ###  Live Demo
 
-**
+*[You can access the live dashboard here!] (http://medicaltourism.shinyapps.io/Medical-Tourism)*
+
 
 ---
 
