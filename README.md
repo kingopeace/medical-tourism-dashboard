@@ -6,7 +6,7 @@ An interactive Shiny dashboard built in R for the bibliometric analysis of medic
 
 ### 🚀 Live Demo
 
-*[You can access the live dashboard here!] (PASTE_YOUR_SHINY_APP_LINK_HERE)*
+**
 
 ---
 
